@@ -1,4 +1,7 @@
+
 # [![OpenCircuits Repo](https://github.com/OpenCircuits/OpenCircuits/blob/master/src/site/pages/digital/public/img/icons/logo.svg)](https://github.com/OpenCircuits/OpenCircuits)
+
+**🚀 Projet en développement actif** : Nous travaillons actuellement à l'intégration de **DeepSeek** comme assistant IA pour enrichir OpenCircuits ! Cette évolution s'inscrit dans la continuité d'un projet open-source existant qui ne disposait pas d'assistant intelligent. L'objectif est d'offrir une aide contextuelle en temps réel pour la conception de circuits.
 
 [![GitHub license](https://img.shields.io/github/license/OpenCircuits/OpenCircuits.svg)](https://github.com/OpenCircuits/OpenCircuits/blob/master/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/OpenCircuits/OpenCircuits.svg)](https://github.com/OpenCircuits/OpenCircuits/graphs/contributors)
@@ -13,39 +16,46 @@
 
 ## Website
 
-Found at [OpenCircuits.io](http://www.opencircuits.io/).
+Retrouvez-nous sur [OpenCircuits.io](http://www.opencircuits.io/).
 
-## Usage
+## Utilisation
 
-Instructions and tutorials located in the [wiki](https://github.com/OpenCircuits/OpenCircuits/wiki).
+Instructions et tutoriels disponibles dans le [wiki](https://github.com/OpenCircuits/OpenCircuits/wiki).
 
-## Background
+## Contexte
 
-OpenCircuits is an open source circuit designer created by [Leon Montealegre](https://leonmontealegre.com/), originally for an independent study for [Professor Paul Wilkinson](http://www.drpjw.org/) of Pasadena City College.
-OpenCircuits is hosted on [GitHub](https://github.com/OpenCircuits/OpenCircuits).
+OpenCircuits est un logiciel open source de conception de circuits créé par [Leon Montealegre](https://leonmontealegre.com/), initialement pour une étude indépendante sous la direction du [Professeur Paul Wilkinson](http://www.drpjw.org/) du Pasadena City College.
+OpenCircuits est hébergé sur [GitHub](https://github.com/OpenCircuits/OpenCircuits).
 
-## Key Features
+## Fonctionnalités clés
 
-*   Create and design simple or complex circuits
-*   Create a circuit and turn it into an IC for easy reuse
-*   Save and load circuits to your hard drive
-*   Very smooth and lag-free for even complex circuits
-*   LEDs and 7-segment-displays
-*   Keyboard and mouse gates to make an interactive circuit
-*   Runs on any device with ES6 support
-*   Can be used by professors, students, and hobbyists alike
-*   Open-source and completely free to use
+* Création de circuits simples ou complexes
+* Conversion de circuits en composants réutilisables (IC)
+* Sauvegarde/chargement de projets
+* Performance optimisée pour les circuits complexes
+* Éléments interactifs : LEDs, afficheurs 7 segments, périphériques virtuels
+* Multiplateforme (fonctionne sur tout appareil avec support ES6)
+* Libre et gratuit pour tous les usages
 
-## Screenshots
+## Captures d'écran
 
 <img src="https://imgur.com/xBc75jL.png" width="80%" />
 <img src="https://imgur.com/UUPyzcx.png" width="80%" />
 <img src="https://imgur.com/gQPQACz.png" width="80%" />
 
-## Contact Us
+## Nous contacter
 
-If you have a question or would like to recommend a feature, please reach out to contact@opencircuits.io.
+Pour toute question ou suggestion : contact@opencircuits.io
 
+## Licence
+OpenCircuits est sous licence GPL-3.0.
 
-## LICENSING
-OpenCircuits is under the GPL-3.0 license.
+---
+
+**✨ Nouveauté en développement** : L'intégration de DeepSeek apportera :
+- Aide contextuelle intelligente pendant la conception
+- Détection automatique d'erreurs de circuit
+- Suggestions de composants optimisés
+- Tutoriels interactifs adaptatifs
+
+*Rejoignez-nous pour construire l'avenir des outils électroniques intelligents !* 🛠️🤖
